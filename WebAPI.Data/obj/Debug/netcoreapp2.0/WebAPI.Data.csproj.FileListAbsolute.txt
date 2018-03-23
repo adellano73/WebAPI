@@ -1,0 +1,11 @@
+C:\Users\ArieldeLlano\source\repos\Skunkworks\WebAPI.Data\bin\Debug\netcoreapp2.0\WebAPI.Data.deps.json
+C:\Users\ArieldeLlano\source\repos\Skunkworks\WebAPI.Data\bin\Debug\netcoreapp2.0\WebAPI.Data.dll
+C:\Users\ArieldeLlano\source\repos\Skunkworks\WebAPI.Data\obj\Debug\netcoreapp2.0\WebAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\ArieldeLlano\source\repos\Skunkworks\WebAPI.Data\obj\Debug\netcoreapp2.0\WebAPI.Data.AssemblyInfoInputs.cache
+C:\Users\ArieldeLlano\source\repos\Skunkworks\WebAPI.Data\obj\Debug\netcoreapp2.0\WebAPI.Data.AssemblyInfo.cs
+C:\Users\ArieldeLlano\source\repos\Skunkworks\WebAPI.Data\bin\Debug\netcoreapp2.0\WebAPI.Data.pdb
+C:\Users\ArieldeLlano\source\repos\Skunkworks\WebAPI.Data\obj\Debug\netcoreapp2.0\WebAPI.Data.csprojResolveAssemblyReference.cache
+C:\Users\ArieldeLlano\source\repos\Skunkworks\WebAPI.Data\obj\Debug\netcoreapp2.0\WebAPI.Data.dll
+C:\Users\ArieldeLlano\source\repos\Skunkworks\WebAPI.Data\obj\Debug\netcoreapp2.0\WebAPI.Data.pdb
+C:\Users\ArieldeLlano\source\repos\Skunkworks\WebAPI.Data\bin\Debug\netcoreapp2.0\WebAPI.Data.runtimeconfig.json
+C:\Users\ArieldeLlano\source\repos\Skunkworks\WebAPI.Data\bin\Debug\netcoreapp2.0\WebAPI.Data.runtimeconfig.dev.json
